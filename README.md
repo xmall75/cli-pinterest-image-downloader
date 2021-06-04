@@ -1,2 +1,2 @@
 # cli-pinterest-image-downloader
-[PHP-CLI] Pinteres Image Downloader
+[PHP-CLI] Pinterest Image Downloader
